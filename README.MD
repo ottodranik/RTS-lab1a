@@ -1,6 +1,6 @@
-### yarn
+`$ yarn`
 
-### npm run ios
+`$ npm run ios`
 
 Xcode should be present
 
